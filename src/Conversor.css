@@ -1,0 +1,19 @@
+.conversor {
+  padding: 30px !important;
+  margin: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: rgb(243, 218, 165) !important;
+}
+h3 {
+  text-align: center;
+}
+.conversor h2 {
+  color: darkcyan;
+}
+.conversor input {
+  margin-right: 10px;
+  max-width: 100%;
+}
+.row2 {
+  margin-top: 15px
+}
